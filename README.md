@@ -62,7 +62,7 @@ Create your professional resume today and stand out in your job applications wit
 ### See some screenshots of this app:
 
 <p align="center">
-  <img src="1.webp" width="480" height="240" style="margin: 10px;" />
+  <img src="1.webp" width="960" height="480" style="margin: 10px;" />
   <img src="2.webp" width="240" height="480" style="margin: 10px;" />
   <img src="3.webp" width="240" height="480" style="margin: 10px;" />
   <img src="4.webp" width="240" height="480" style="margin: 10px;" />
